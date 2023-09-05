@@ -2,7 +2,7 @@
 - Interface WEB de contagem regressiva.
 ---------------------------------------
 
-## Tecnologias
+# Tecnologias
 
 • HTML5
 • CSS3
